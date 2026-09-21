@@ -396,5 +396,7 @@ Potential later additions, if needed, include a reset-to-defaults control and a 
 - **Version:** 1.0
 - **Release date:** 2026-09-21
 - **Repository:** https://github.com/natasakablar-lab/HVAC-Control-Lab
+- **Live application:** https://hvac-control-lab.streamlit.app
 - **License:** MIT License
-- **Zenodo DOI:** To be added after the Zenodo release.
+- **Zenodo DOI (Version 1.0):** https://doi.org/10.5281/zenodo.22866664
+- **Zenodo Concept DOI (all versions):** https://doi.org/10.5281/zenodo.22866663
