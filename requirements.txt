@@ -1,0 +1,11 @@
+# HVAC Control Lab v1.0
+# Runtime dependencies
+#
+# Version numbers are intentionally not pinned yet.
+# Before public deployment/release, pin the versions from the
+# validated local environment to maximize reproducibility.
+
+streamlit
+numpy
+pandas
+matplotlib
